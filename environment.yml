@@ -8,4 +8,5 @@ dependencies:
   - matplotlib==2.0.2
   - ipython
   - scikit-learn==0.19.1
-  - wget
+  - pip:
+    - wget
